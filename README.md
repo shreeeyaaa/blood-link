@@ -43,16 +43,16 @@ A full-stack application that simplifies and improves the blood donation process
 ## 🔍 Screenshots
 
 ### Login & Registration
-![Login Screen](screenshots/register.png)
-
-### Donor Dashboard
-![Donor Dashboard](screenshots/donor_dashboard.png)
+<img src="screenshots/register.png" alt="Register" width="300"/>
 
 ### Request Blood Flow
-![Request Flow](screenshots/request.png)
+<img src="screenshots/request.png" alt="Dashboard - Requested Tab" width="300"/>
+
+### Donor Dashboard
+<img src="screenshots/donor_dashboard.png" alt="Dashboard - Requested Tab" width="300"/>
 
 ### Map Integration
-![Map](screenshots/map.png)
+<img src="screenshots/map.png" alt="Map Integration" width="300"/>
 
 ### Notification
-![Notification](screenshots/notification.png)
+<img src="screenshots/notification.png" alt="Notification" width="300"/>
